@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleInfoGen", "ConsoleInfoGen\ConsoleInfoGen.csproj", "{D1D1DCC6-DA06-492E-91C4-D2C570E0B164}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleInfoGen", "ConsoleInfoGen\ConsoleInfoGen.csproj", "{D1D1DCC6-DA06-492E-91C4-D2C570E0B164}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestPersonInfoGen", "XUnitTestPersonInfoGen\XUnitTestPersonInfoGen.csproj", "{0330E66F-1233-44B6-A6C0-97E605724575}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D1D1DCC6-DA06-492E-91C4-D2C570E0B164}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1D1DCC6-DA06-492E-91C4-D2C570E0B164}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1D1DCC6-DA06-492E-91C4-D2C570E0B164}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0330E66F-1233-44B6-A6C0-97E605724575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0330E66F-1233-44B6-A6C0-97E605724575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0330E66F-1233-44B6-A6C0-97E605724575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0330E66F-1233-44B6-A6C0-97E605724575}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

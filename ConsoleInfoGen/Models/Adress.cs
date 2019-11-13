@@ -20,7 +20,7 @@ namespace ConsoleInfoGen.Models
         public string Info()
         {
             return $"Country: {Country}\nCity: {City}\nStreet: {Road}";
-            //"Country: {0}\nCity: {1}\nStreet: {2}", Country, City, Road;
+            //"Country: {0}\nCity: {1}\nStreet: {2}", Country, City, Road
         }
     }
 }
